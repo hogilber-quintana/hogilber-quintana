@@ -98,12 +98,17 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hogilber-quintana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hogilber Quintana GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hogilber-quintana&theme=tokyonight" alt="Hogilber Quintana GitHub stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hogilber-quintana&theme=tokyonight&hide_border=true" alt="Hogilber Quintana GitHub streak" />
 
 <br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogilber-quintana&layout=compact&theme=tokyonight&hide_border=true" alt="Hogilber Quintana top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hogilber-quintana&theme=tokyonight" alt="Hogilber Quintana repositories by language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hogilber-quintana&theme=tokyonight" alt="Hogilber Quintana commits by language" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hogilber-quintana&theme=tokyonight" alt="Hogilber Quintana GitHub profile summary" />
 
 <br />
 
