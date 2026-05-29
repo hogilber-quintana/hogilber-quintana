@@ -10,6 +10,11 @@ I design and guide systems that need to be reliable, observable, secure, and mai
 [![GitHub followers](https://img.shields.io/github/followers/hogilber-quintana?style=flat-square&color=2563eb)](https://github.com/hogilber-quintana?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/hogilber-quintana?style=flat-square&color=f59e0b)](https://github.com/hogilber-quintana?tab=repositories)
 
+<br />
+<br />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hogilber-quintana&theme=tokyonight&hide_border=true" alt="Hogilber Quintana GitHub streak" />
+
 </div>
 
 ---
@@ -93,14 +98,6 @@ flowchart LR
 - Secure-by-default infrastructure and deployment workflows
 - Developer experience, golden paths, and pragmatic automation
 - Architecture decision records, reference implementations, and technical alignment
-
-## GitHub Signals
-
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hogilber-quintana&theme=tokyonight&hide_border=true" alt="Hogilber Quintana GitHub streak" />
-
-</div>
 
 ## How I Like To Collaborate
 
