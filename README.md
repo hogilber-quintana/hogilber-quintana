@@ -15,6 +15,11 @@ I design and guide systems that need to be reliable, observable, secure, and mai
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hogilber-quintana&theme=tokyonight&hide_border=true" alt="Hogilber Quintana GitHub streak" />
 
+<br />
+<br />
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Hogilber Quintana 3D contribution graph" />
+
 </div>
 
 ---
