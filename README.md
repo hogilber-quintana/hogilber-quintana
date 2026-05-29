@@ -98,21 +98,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hogilber-quintana&theme=tokyonight" alt="Hogilber Quintana GitHub stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hogilber-quintana&theme=tokyonight&hide_border=true" alt="Hogilber Quintana GitHub streak" />
-
-<br />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hogilber-quintana&theme=tokyonight" alt="Hogilber Quintana repositories by language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hogilber-quintana&theme=tokyonight" alt="Hogilber Quintana commits by language" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hogilber-quintana&theme=tokyonight" alt="Hogilber Quintana GitHub profile summary" />
-
-<br />
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hogilber-quintana&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
